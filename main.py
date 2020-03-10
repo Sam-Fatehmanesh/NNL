@@ -13,6 +13,7 @@ R2 = np.array([1])
 R3 = np.array([1])
 R4 = np.array([0])
 
+#test
 
 trainIn = [C1,C2,C3,C4]
 trainOut = [R1,R2,R3,R4]
