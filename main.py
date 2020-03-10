@@ -8,7 +8,7 @@ C2 = np.array([[1],[0],[1.0]])
 C3 = np.array([[0],[1],[1.0]])
 C4 = np.array([[0],[0],[1.0]])
 
-R1 = np.array([1])
+R1 = np.array([0])
 R2 = np.array([1])
 R3 = np.array([1])
 R4 = np.array([0])
