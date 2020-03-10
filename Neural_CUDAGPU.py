@@ -22,7 +22,7 @@ class NeuralNet:
         self.layerprimus = None
 
     def addLayer(self,size,func):
-        #
+        
         if self.layerprimus == None:
             self.layerprimus = Layer(func,self.inputcount,size)
         else:
